@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGODB_URI": "mongodb+srv://Sid:jBWcaYOiVj9oZw9M@cluster0.xz4rb.mongodb.net/sid-post?retryWrites=true"
+  }
+}
